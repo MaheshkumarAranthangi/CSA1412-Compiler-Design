@@ -1,5 +1,5 @@
-// #192424420
-/*
+
+/*192411237
  Exp 17 - Count characters, words and lines from stdin input (clean)
 */
 #include <stdio.h>
