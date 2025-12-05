@@ -1,5 +1,4 @@
-// #192424420
-/*
+//// #192411237*
  Exp 08 - Compute FOLLOW set (simplified educational version)
 */
 #include <stdio.h>
